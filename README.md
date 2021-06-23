@@ -8,7 +8,8 @@ var Epic = new Dictionary<string, string>
 {
     { "Knowledge", "C#, Python, (soon) Rust" },
     { "Tools", "Rider, InteliJ, PyCharm, Visual Studio" },
-    { "OS", "Windows 10 Home" }
+    { "OS", "Windows 10 Home" },
+    { "Projects", "DorkR" }
 };
 
 var Contact = new Dictionary<string, string>
