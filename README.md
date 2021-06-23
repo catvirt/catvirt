@@ -4,7 +4,7 @@
 const string From = "Romania";
 int Age = 15;
 
-var catvirt = new Dictionary<string, string>
+var Catvirt = new Dictionary<string, string>
 {
     { "Knowledge", "C#, Python, (soon) Rust" },
     { "Tools", "Rider, InteliJ, PyCharm, Visual Studio" },
